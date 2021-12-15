@@ -1,0 +1,16 @@
+Physicochemical Properties of Protein Tertiary Structure.
+The dataset is taken from Critical Assessment of protein Structure Prediction abbreviated as CASP 5-9.
+
+Attribute Information:
+RMSD  - Size of the residue.
+F1    - Total surface area.
+F2    - Non polar exposed area.
+F3    - Fractional area of exposed non polar residue.
+F4    - Fractional area of exposed non polar part of residue.
+F5    - Molecular mass weighted exposed area.
+F6    - Average deviation from standard exposed area of residue.
+F7    - Euclidian distance.
+F8    - Secondary structure penalty.
+F9    - Spacial Distribution constraints (N,K Value).
+
+More information about the dataset: Follow UCI Machine Learning Repository (https://archive.ics.uci.edu/ml/datasets/)
